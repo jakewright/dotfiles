@@ -1,21 +1,21 @@
-# Bash Scripts
-
-<img align="right" src="https://media.giphy.com/media/WTBS1h3lI82Aw/giphy.gif" width="260 "/>
+# Dotfiles
 
 A collection of useful aliases and functions to source from your bash profile.
+I use this to keep dotfiles syncronised between different computers.
+Inspired by https://github.com/cowboy/dotfiles, this is simplified version and has no bootstrapping scripts.
 
 To use these scripts, clone the repository:
 
 ```bash
 cd ~
-git clone git@github.com:jakewright/bash-scripts.git
+git clone git@github.com:jakewright/dotfiles.git
 ```
 
 Then add the following to `~/.bash_profile`:
 
 ```bash
-source ~/bash-scripts/git.sh
-source ~/bash-scripts/web.sh
+source ~/dotfiles/git.sh
+source ~/dotfiles/web.sh
 ```
 
 Reload your bash profile by running `source ~/.bash_profile`.
