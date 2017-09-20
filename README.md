@@ -18,6 +18,7 @@ Then add the following to `~/.bash_profile`:
 ```bash
 source ~/dotfiles/git.sh
 source ~/dotfiles/web.sh
+source ~/dotfiles/unix.sh
 ```
 
 Reload your bash profile by running `source ~/.bash_profile`.
