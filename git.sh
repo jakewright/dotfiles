@@ -5,7 +5,7 @@ alias gb="git branch"
 alias gc="git commit"
 alias gd="git diff"
 alias gl="git log"
-alias gp="git push"
+alias gp="git push -u"
 
 # The --force-with-lease option is like --force
 # but will not overwrite other people's changes.
