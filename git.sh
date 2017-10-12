@@ -12,4 +12,4 @@ alias gp="git push -u"
 alias gpf="git push --force-with-lease"
 
 alias gs="git status"
-alias rebasem="git fetch --all; git rebase origin/master"
+alias rebasem="git fetch --all && git rebase origin/master"
