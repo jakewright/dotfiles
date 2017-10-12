@@ -17,8 +17,9 @@ Then add the following to `~/.bash_profile`:
 
 ```bash
 source ~/dotfiles/git.sh
-source ~/dotfiles/web.sh
+source ~/dotfile/tmuxinator.sh
 source ~/dotfiles/unix.sh
+source ~/dotfiles/web.sh
 ```
 
 Reload your bash profile by running `source ~/.bash_profile`.
