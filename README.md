@@ -17,7 +17,7 @@ Then add the following to `~/.bash_profile`:
 
 ```bash
 source ~/dotfiles/git.sh
-source ~/dotfile/tmuxinator.sh
+source ~/dotfiles/tmuxinator.zsh
 source ~/dotfiles/unix.sh
 source ~/dotfiles/web.sh
 ```
